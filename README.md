@@ -4,23 +4,24 @@ publishing correctly
 Публикую заново убрав лишнее, проект 2020 года под хостинг heroku с postgres
 
 Личный проект для игрового сервера
+
 Включает модули с использованием:
-selenium (chromedriver)
-BS4
-прочие парсеры
-собственная БД PostgreSQL
-собственный модуль тотализатора
-discord.py (устаревшая уже версия)
+1. selenium (chromedriver)
+2. BS4
+3. прочие парсеры
+4. собственная БД PostgreSQL
+5. собственный модуль тотализатора
+6. discord.py (устаревшая уже версия)
 
 версии:
-discord==1.7.3
-pandas
-requests
-bs4
-asyncio
-psycopg2
-selenium==3.141.0
-discord_components
+- discord==1.7.3
+- pandas
+- requests
+- bs4
+- asyncio
+- psycopg2
+- selenium==3.141.0
+- discord_components
 
 **Краткое описание работы событий**
 ```
